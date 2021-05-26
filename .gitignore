@@ -1,3 +1,11 @@
+# Adding config.py file
+config.py
+
+# Additional practice files to ignore
+API_practice.ipynb
+__pycache__
+Random_Numbers.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
